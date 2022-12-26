@@ -1,0 +1,9 @@
+AI vs machine learning
+
+Artificial intelligence
+Robotics, Planning, Vision, Speech, Expert Systems, Natural Language Processing, Machine Learning
+
+NPC behaviours 
+holistic3d
+
+Cartesian Cordinates
